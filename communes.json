@@ -1,0 +1,141 @@
+[
+  { "id": "boeung_tueng", "district_id": "mongkol_borei", "local": "ឃុំបឹងត្រសេក", "english": "Boeung Tueng Commune" },
+  { "id": "bat_trang", "district_id": "mongkol_borei", "local": "ឃុំបត់ត្រង់", "english": "Bat Trang Commune" },
+  { "id": "sambuor", "district_id": "mongkol_borei", "local": "ឃុំសំបួរ", "english": "Sambuor Commune" },
+  { "id": "koy_mae", "district_id": "mongkol_borei", "local": "ឃុំកុយមែ", "english": "Koy Mae Commune" },
+  { "id": "oskralao", "district_id": "mongkol_borei", "local": "ឃុំអូរត្រកួន", "english": "O Sralao Commune" },
+
+  { "id": "phnum_tuek", "district_id": "phnum_srok", "local": "ឃុំភ្នំទឹក", "english": "Phnum Tuek Commune" },
+  { "id": "srah_chik", "district_id": "phnum_srok", "local": "ឃុំស្រះជីក", "english": "Srah Chik Commune" },
+  { "id": "pongro", "district_id": "phnum_srok", "local": "ឃុំពង្រ", "english": "Pong Ro Commune" },
+
+  { "id": "preah_net_preah_1", "district_id": "preah_net_preah", "local": "ឃុំព្រះនេត្រព្រះ", "english": "Preah Netr Preah Commune" },
+  { "id": "preah_net_preah_2", "district_id": "preah_net_preah", "local": "ឃុំបុស្បូវ", "english": "Bous Sbov Commune" },
+
+  { "id": "serei_saophoan_1", "district_id": "serei_saophoan", "local": "សង្កាត់ព្រះពន្លា", "english": "Preah Ponlea Commune" },
+  { "id": "serei_saophoan_2", "district_id": "serei_saophoan", "local": "សង្កាត់កំពង់ស្វាយ", "english": "Kampong Svay Commune" },
+
+  { "id": "thma_puok_1", "district_id": "thma_puok", "local": "ឃុំថ្មពួក", "english": "Thma Puok Commune" },
+  { "id": "thma_puok_2", "district_id": "thma_puok", "local": "ឃុំគោកកឋិន", "english": "Kouk Kathin Commune" },
+
+  { "id": "svay_chek_1", "district_id": "svay_chek", "local": "ឃុំស្វាយចេក", "english": "Svay Chek Commune" },
+  { "id": "svay_chek_2", "district_id": "svay_chek", "local": "ឃុំអូរប្រាសាទ", "english": "Ou Prasat Commune" },
+
+  { "id": "ou_chrov_1", "district_id": "ou_chrov", "local": "ឃុំអូរជ្រៅ", "english": "Ou Chrov Commune" },
+  { "id": "ou_chrov_2", "district_id": "ou_chrov", "local": "ឃុំប៉ោយប៉ែត", "english": "Poipet Commune" },
+
+  { "id": "malai_1", "district_id": "malai", "local": "ឃុំម៉ាឡៃ", "english": "Malai Commune" },
+  { "id": "malai_2", "district_id": "malai", "local": "ឃុំអូរសំព័រ", "english": "O' Sampor Commune" },
+
+  { "id": "poipet_1", "district_id": "poipet", "local": "សង្កាត់ប៉ោយប៉ែត", "english": "Poipet Sangkat" },
+  { "id": "poipet_2", "district_id": "poipet", "local": "សង្កាត់ផ្សារកណ្តាល", "english": "Phsar Kandal Sangkat" },
+  
+  { "id": "tonle_bassac", "district_id": "chamkar_mon", "local": "សង្កាត់ទន្លេបាសាក់", "english": "Tonle Bassac" },
+  { "id": "boeung_keng_kang_1", "district_id": "chamkar_mon", "local": "សង្កាត់បឹងកេងកង១", "english": "Boeung Keng Kang I" },
+  { "id": "boeung_keng_kang_2", "district_id": "chamkar_mon", "local": "សង្កាត់បឹងកេងកង២", "english": "Boeung Keng Kang II" },
+  { "id": "toul_tompoung_1", "district_id": "chamkar_mon", "local": "សង្កាត់ទួលទំពូង១", "english": "Toul Tompoung I" },
+  { "id": "toul_tompoung_2", "district_id": "chamkar_mon", "local": "សង្កាត់ទួលទំពូង២", "english": "Toul Tompoung II" },
+
+  { "id": "phsar_thmei_1", "district_id": "doun_penh", "local": "សង្កាត់ផ្សារថ្មី១", "english": "Phsar Thmei I" },
+  { "id": "phsar_thmei_2", "district_id": "doun_penh", "local": "សង្កាត់ផ្សារថ្មី២", "english": "Phsar Thmei II" },
+  { "id": "chey_chumneas", "district_id": "doun_penh", "local": "សង្កាត់ជ័យជំនះ", "english": "Chey Chumneas" },
+  { "id": "psar_kandal", "district_id": "doun_penh", "local": "សង្កាត់ផ្សារកណ្តាល", "english": "Phsar Kandal" },
+
+  { "id": "monorom", "district_id": "prampir_meakkakra", "local": "សង្កាត់មនោរម្យ", "english": "Monorom" },
+  { "id": "veal_vong", "district_id": "prampir_meakkakra", "local": "សង្កាត់វាលវង់", "english": "Veal Vong" },
+  { "id": "ou_ruessei_1", "district_id": "prampir_meakkakra", "local": "សង្កាត់អូរឫស្សី១", "english": "Ou Ruessei I" },
+
+  { "id": "toul_kouk_1", "district_id": "tuol_kouk", "local": "សង្កាត់ទួលគោក១", "english": "Tuol Kouk I" },
+  { "id": "toul_kouk_2", "district_id": "tuol_kouk", "local": "សង្កាត់ទួលគោក២", "english": "Tuol Kouk II" },
+
+  { "id": "dangkao_1", "district_id": "dangkao", "local": "សង្កាត់ដង្កោ", "english": "Dangkao" },
+  { "id": "prey_sar", "district_id": "dangkao", "local": "សង្កាត់ព្រៃស", "english": "Prey Sar" },
+
+  { "id": "chak_ang_re_1", "district_id": "mean_chey", "local": "សង្កាត់ចាក់អង្រែ", "english": "Chak Angre" },
+  { "id": "chak_ang_re_2", "district_id": "mean_chey", "local": "សង្កាត់ស្ទឹងមានជ័យ", "english": "Stueng Meanchey" },
+
+  { "id": "russey_keo_1", "district_id": "russey_keo", "local": "សង្កាត់ឫស្សីកែវ", "english": "Russey Keo" },
+  { "id": "tuol_sangkae", "district_id": "russey_keo", "local": "សង្កាត់ទួលសង្កែ", "english": "Tuol Sangke" },
+
+  { "id": "sen_sok_1", "district_id": "sen_sok", "local": "សង្កាត់អូរបែកក្អម", "english": "Ou Baek K'am" },
+  { "id": "sen_sok_2", "district_id": "sen_sok", "local": "សង្កាត់ក្រាំងធ្នង់", "english": "Krang Thnong" },
+
+  { "id": "por_sen_chey_1", "district_id": "por_sen_chey", "local": "សង្កាត់ចោមចៅ", "english": "Chaom Chao" },
+  { "id": "por_sen_chey_2", "district_id": "por_sen_chey", "local": "សង្កាត់កំបូល", "english": "Kamboul" },
+
+  { "id": "chrouy_changvar_1", "district_id": "chrouy_changvar", "local": "សង្កាត់ជ្រោយចង្វារ", "english": "Chrouy Changvar" },
+  { "id": "chrouy_changvar_2", "district_id": "chrouy_changvar", "local": "សង្កាត់ព្រែកលាប", "english": "Prek Lieb" },
+
+  { "id": "prek_pnov_1", "district_id": "prek_pnov", "local": "សង្កាត់ព្រែកព្នៅ", "english": "Prek Pnov" },
+  { "id": "prek_pnov_2", "district_id": "prek_pnov", "local": "សង្កាត់គោករកា", "english": "Kouk Roka" },
+
+  { "id": "chbar_ampov_1", "district_id": "chbar_ampov", "local": "សង្កាត់ច្បារអំពៅ", "english": "Chbar Ampov" },
+  { "id": "chbar_ampov_2", "district_id": "chbar_ampov", "local": "សង្កាត់និរោធ", "english": "Niroth" },
+
+  { "id": "boeung_keng_kang_3", "district_id": "boeung_keng_kang", "local": "សង្កាត់បឹងកេងកង៣", "english": "Boeung Keng Kang III" },
+  
+  { "id": "batheay_1", "district_id": "batheay", "local": "ឃុំបាធាយ", "english": "Batheay Commune" },
+  { "id": "batheay_2", "district_id": "batheay", "local": "ឃុំជើងព្រៃ", "english": "Cheung Prey Commune" },
+  { "id": "batheay_3", "district_id": "batheay", "local": "ឃុំតាំងក្រសាំង", "english": "Tang Krasang Commune" },
+
+  { "id": "cheung_prey_1", "district_id": "cheung_prey", "local": "ឃុំជើងព្រៃ", "english": "Cheung Prey Commune" },
+  { "id": "cheung_prey_2", "district_id": "cheung_prey", "local": "ឃុំស្ពឺ", "english": "Speu Commune" },
+  { "id": "cheung_prey_3", "district_id": "cheung_prey", "local": "ឃុំស្វាយទាប", "english": "Svay Teab Commune" },
+
+  { "id": "kampong_cham_1", "district_id": "kampong_cham", "local": "សង្កាត់កំពង់ចាម", "english": "Kampong Cham Sangkat" },
+  { "id": "kampong_cham_2", "district_id": "kampong_cham", "local": "សង្កាត់វាលវង់", "english": "Veal Vong Sangkat" },
+  { "id": "kampong_cham_3", "district_id": "kampong_cham", "local": "សង្កាត់សំបួរមាស", "english": "Sambuor Meas Sangkat" },
+
+  { "id": "kang_meas_1", "district_id": "kang_meas", "local": "ឃុំកងមាស", "english": "Kang Meas Commune" },
+  { "id": "kang_meas_2", "district_id": "kang_meas", "local": "ឃុំអូរស្វាយ", "english": "Ou Svay Commune" },
+
+  { "id": "koh_sotin_1", "district_id": "koh_sotin", "local": "ឃុំកោះសូទិន", "english": "Koh Sotin Commune" },
+  { "id": "koh_sotin_2", "district_id": "koh_sotin", "local": "ឃុំត្រពាំងគ្រៀល", "english": "Trapeang Kriel Commune" },
+
+  { "id": "prey_chhor_1", "district_id": "prey_chhor", "local": "ឃុំព្រៃឈរ", "english": "Prey Chhor Commune" },
+  { "id": "prey_chhor_2", "district_id": "prey_chhor", "local": "ឃុំបារាយណ៍", "english": "Baray Commune" },
+
+  { "id": "srey_santhor_1", "district_id": "srey_santhor", "local": "ឃុំស្រីសន្ធរ", "english": "Srey Santhor Commune" },
+  { "id": "srey_santhor_2", "district_id": "srey_santhor", "local": "ឃុំពាមជីកង", "english": "Peam Chi Kang Commune" },
+
+  { "id": "stueng_trang_1", "district_id": "stueng_trang", "local": "ឃុំស្ទឹងត្រង់", "english": "Stueng Trang Commune" },
+  { "id": "stueng_trang_2", "district_id": "stueng_trang", "local": "ឃុំអំពិល", "english": "Ampil Commune" },
+
+  { "id": "kampong_siem_1", "district_id": "kampong_siem", "local": "ឃុំកំពង់សៀម", "english": "Kampong Siem Commune" },
+  { "id": "kampong_siem_2", "district_id": "kampong_siem", "local": "ឃុំអំពិលតាពោក", "english": "Ampil Ta Pok Commune" },
+  { "id": "banteay_daek", "district_id": "kien_svay", "local": "ឃុំបន្ទាយដែក", "english": "Banteay Daek Commune" },
+  { "id": "svay_chrum", "district_id": "kien_svay", "local": "ឃុំស្វាយជ្រុំ", "english": "Svay Chrum Commune" },
+  { "id": "dak_pov", "district_id": "kien_svay", "local": "ឃុំដាក់ពោធិ៍", "english": "Dak Pov Commune" },
+
+  { "id": "preaek_ampil", "district_id": "khsach_kandal", "local": "ឃុំព្រែកអំពិល", "english": "Preaek Ampil Commune" },
+  { "id": "kaoh_chouram", "district_id": "khsach_kandal", "local": "ឃុំកោះជរំ", "english": "Kaoh Chouram Commune" },
+  { "id": "bak_dav", "district_id": "khsach_kandal", "local": "ឃុំបាក់ដាវ", "english": "Bak Dav Commune" },
+
+  { "id": "kandal_stueng_1", "district_id": "kandal_stueng", "local": "ឃុំកណ្តាលស្ទឹង", "english": "Kandal Stueng Commune" },
+  { "id": "kandal_stueng_2", "district_id": "kandal_stueng", "local": "ឃុំសំរោងលើ", "english": "Samraong Leu Commune" },
+
+  { "id": "koh_thom_1", "district_id": "koh_thom", "local": "ឃុំកោះធំ", "english": "Koh Thom Commune" },
+  { "id": "koh_thom_2", "district_id": "koh_thom", "local": "ឃុំលើកដែក", "english": "Leuk Daek Commune" },
+
+  { "id": "leuk_daek_1", "district_id": "leuk_daek", "local": "ឃុំលើកដែក", "english": "Leuk Daek Commune" },
+
+  { "id": "lvea_aem_1", "district_id": "lvea_aem", "local": "ឃុំល្វាឯម", "english": "Lvea Aem Commune" },
+  { "id": "lvea_aem_2", "district_id": "lvea_aem", "local": "ឃុំអរិយក្សត្រ", "english": "Akreiy Ksatr Commune" },
+
+  { "id": "mukh_kampul_1", "district_id": "mukh_kampul", "local": "ឃុំមុខកំពូល", "english": "Mukh Kampul Commune" },
+  { "id": "mukh_kampul_2", "district_id": "mukh_kampul", "local": "ឃុំសំបួរមាស", "english": "Sambuor Meas Commune" },
+
+  { "id": "angk_snuol_1", "district_id": "angk_snuol", "local": "ឃុំអង្គស្នួល", "english": "Angk Snuol Commune" },
+  { "id": "angk_snuol_2", "district_id": "angk_snuol", "local": "ឃុំក្រាំងម្កាក់", "english": "Krang Mkak Commune" },
+
+  { "id": "saang_1", "district_id": "saang", "local": "ឃុំស្អាង", "english": "Saang Commune" },
+  { "id": "saang_2", "district_id": "saang", "local": "ឃុំស្វាយរលំ", "english": "Svay Rolum Commune" },
+
+  { "id": "ta_khmau_1", "district_id": "ta_khmau", "local": "សង្កាត់តាខ្មៅ", "english": "Ta Khmau Sangkat" },
+  { "id": "ta_khmau_2", "district_id": "ta_khmau", "local": "សង្កាត់រកាខ្ពស់", "english": "Roka Khpos Sangkat" },
+
+  { "id": "ponhea_lueu_1", "district_id": "ponhea_lueu", "local": "ឃុំពញាឮ", "english": "Ponhea Lueu Commune" },
+  { "id": "ponhea_lueu_2", "district_id": "ponhea_lueu", "local": "ឃុំភ្នំបាត", "english": "Phnum Bat Commune" }
+
+
+]
