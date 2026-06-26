@@ -1,0 +1,427 @@
+[
+  {
+    "id": "bat_trang_001",
+    "commune_id": "bat_trang",
+    "local": "ភូមិបត់ត្រង់",
+    "english": "Bat Trang Village"
+  },
+  {
+    "id": "bat_trang_002",
+    "commune_id": "bat_trang",
+    "local": "ភូមិអន្លង់ធ្ងានលិច",
+    "english": "Anlong Thngan Lech Village"
+  },
+  {
+    "id": "bat_trang_003",
+    "commune_id": "bat_trang",
+    "local": "ភូមិអន្លង់ធ្ងានកើត",
+    "english": "Anlong Thngan Kaeut Village"
+  },
+  {
+    "id": "chamnaom_001",
+    "commune_id": "chamnaom",
+    "local": "ភូមិចំណោម",
+    "english": "Chamnaom Village"
+  },
+  {
+    "id": "chamnaom_002",
+    "commune_id": "chamnaom",
+    "local": "ភូមិព្រាលចារ",
+    "english": "Pralay Char Village"
+  },
+  {
+    "id": "chamnaom_003",
+    "commune_id": "chamnaom",
+    "local": "ភូមិតាសាល",
+    "english": "Ta Sal Village"
+  },
+  {
+    "id": "banteay_neang_001",
+    "commune_id": "banteay_neang",
+    "local": "ភូមិបន្ទាយនាង",
+    "english": "Banteay Neang Village"
+  },
+  {
+    "id": "banteay_neang_002",
+    "commune_id": "banteay_neang",
+    "local": "ភូមិស្រែជិះ",
+    "english": "Srae Chik Village"
+  },
+
+  {
+    "id": "tonle_bassac_001",
+    "commune_id": "tonle_bassac",
+    "local": "ភូមិទន្លេបាសាក់",
+    "english": "Tonle Bassac Village"
+  },
+  {
+    "id": "boeung_keng_kang_1_001",
+    "commune_id": "boeung_keng_kang_1",
+    "local": "ភូមិបឹងកេងកង១",
+    "english": "Boeung Keng Kang I Village"
+  },
+  {
+    "id": "boeung_keng_kang_2_001",
+    "commune_id": "boeung_keng_kang_2",
+    "local": "ភូមិបឹងកេងកង២",
+    "english": "Boeung Keng Kang II Village"
+  },
+  {
+    "id": "toul_tompoung_1_001",
+    "commune_id": "toul_tompoung_1",
+    "local": "ភូមិទួលទំពូង១",
+    "english": "Toul Tompoung I Village"
+  },
+
+  {
+    "id": "phsar_thmei_1_001",
+    "commune_id": "phsar_thmei_1",
+    "local": "ភូមិផ្សារថ្មី១",
+    "english": "Phsar Thmei I Village"
+  },
+  {
+    "id": "phsar_kandal_001",
+    "commune_id": "psar_kandal",
+    "local": "ភូមិផ្សារកណ្តាល",
+    "english": "Phsar Kandal Village"
+  },
+  {
+    "id": "chey_chumneas_001",
+    "commune_id": "chey_chumneas",
+    "local": "ភូមិជ័យជំនះ",
+    "english": "Chey Chumneas Village"
+  },
+
+  {
+    "id": "monorom_001",
+    "commune_id": "monorom",
+    "local": "ភូមិមនោរម្យ",
+    "english": "Monorom Village"
+  },
+  {
+    "id": "veal_vong_001",
+    "commune_id": "veal_vong",
+    "local": "ភូមិវាលវង់",
+    "english": "Veal Vong Village"
+  },
+
+  {
+    "id": "toul_kouk_001",
+    "commune_id": "toul_kouk_1",
+    "local": "ភូមិទួលគោក",
+    "english": "Tuol Kouk Village"
+  },
+
+  {
+    "id": "dangkao_001",
+    "commune_id": "dangkao_1",
+    "local": "ភូមិដង្កោ",
+    "english": "Dangkao Village"
+  },
+
+  {
+    "id": "chak_ang_re_001",
+    "commune_id": "chak_ang_re_1",
+    "local": "ភូមិចាក់អង្រែ",
+    "english": "Chak Angre Village"
+  },
+
+  {
+    "id": "russey_keo_001",
+    "commune_id": "russey_keo_1",
+    "local": "ភូមិឫស្សីកែវ",
+    "english": "Russey Keo Village"
+  },
+
+  {
+    "id": "sen_sok_001",
+    "commune_id": "sen_sok_1",
+    "local": "ភូមិអូរបែកក្អម",
+    "english": "Ou Baek K'am Village"
+  },
+
+  {
+    "id": "por_sen_chey_001",
+    "commune_id": "por_sen_chey_1",
+    "local": "ភូមិចោមចៅ",
+    "english": "Chaom Chao Village"
+  },
+
+  {
+    "id": "chbar_ampov_001",
+    "commune_id": "chbar_ampov_1",
+    "local": "ភូមិច្បារអំពៅ",
+    "english": "Chbar Ampov Village"
+  },
+
+  {
+    "id": "chrouy_changvar_001",
+    "commune_id": "chrouy_changvar_1",
+    "local": "ភូមិជ្រោយចង្វារ",
+    "english": "Chrouy Changvar Village"
+  },
+
+  {
+    "id": "prek_pnov_001",
+    "commune_id": "prek_pnov_1",
+    "local": "ភូមិព្រែកព្នៅ",
+    "english": "Prek Pnov Village"
+  },
+  {
+    "id": "batheay_001",
+    "commune_id": "batheay",
+    "local": "ភូមិបាធាយ",
+    "english": "Batheay Village"
+  },
+  {
+    "id": "batheay_002",
+    "commune_id": "batheay",
+    "local": "ភូមិតាំងក្រសាំង",
+    "english": "Tang Krasang Village"
+  },
+  {
+    "id": "batheay_003",
+    "commune_id": "batheay",
+    "local": "ភូមិព្រៃតាហ៊ាន",
+    "english": "Prey Tahean Village"
+  },
+
+  {
+    "id": "cheung_prey_001",
+    "commune_id": "cheung_prey",
+    "local": "ភូមិជើងព្រៃ",
+    "english": "Cheung Prey Village"
+  },
+  {
+    "id": "cheung_prey_002",
+    "commune_id": "cheung_prey",
+    "local": "ភូមិស្វាយទាប",
+    "english": "Svay Teab Village"
+  },
+  {
+    "id": "cheung_prey_003",
+    "commune_id": "cheung_prey",
+    "local": "ភូមិព្រៃទទឹង",
+    "english": "Prey Totueng Village"
+  },
+
+  {
+    "id": "kampong_cham_001",
+    "commune_id": "kampong_cham",
+    "local": "ភូមិកំពង់ចាម",
+    "english": "Kampong Cham Village"
+  },
+  {
+    "id": "kampong_cham_002",
+    "commune_id": "kampong_cham",
+    "local": "ភូមិវាលវង់",
+    "english": "Veal Vong Village"
+  },
+  {
+    "id": "kampong_cham_003",
+    "commune_id": "kampong_cham",
+    "local": "ភូមិសំបួរមាស",
+    "english": "Sambuor Meas Village"
+  },
+
+  {
+    "id": "kang_meas_001",
+    "commune_id": "kang_meas",
+    "local": "ភូមិកងមាស",
+    "english": "Kang Meas Village"
+  },
+  {
+    "id": "kang_meas_002",
+    "commune_id": "kang_meas",
+    "local": "ភូមិអូរស្វាយ",
+    "english": "Ou Svay Village"
+  },
+
+  {
+    "id": "koh_sotin_001",
+    "commune_id": "koh_sotin",
+    "local": "ភូមិកោះសូទិន",
+    "english": "Koh Sotin Village"
+  },
+  {
+    "id": "koh_sotin_002",
+    "commune_id": "koh_sotin",
+    "local": "ភូមិព្រែកតានង់",
+    "english": "Prek Ta Nong Village"
+  },
+
+  {
+    "id": "prey_chhor_001",
+    "commune_id": "prey_chhor",
+    "local": "ភូមិព្រៃឈរ",
+    "english": "Prey Chhor Village"
+  },
+  {
+    "id": "prey_chhor_002",
+    "commune_id": "prey_chhor",
+    "local": "ភូមិបារាយណ៍",
+    "english": "Baray Village"
+  },
+
+  {
+    "id": "srey_santhor_001",
+    "commune_id": "srey_santhor",
+    "local": "ភូមិស្រីសន្ធរ",
+    "english": "Srey Santhor Village"
+  },
+  {
+    "id": "srey_santhor_002",
+    "commune_id": "srey_santhor",
+    "local": "ភូមិពាមជីកង",
+    "english": "Peam Chi Kang Village"
+  },
+
+  {
+    "id": "stueng_trang_001",
+    "commune_id": "stueng_trang",
+    "local": "ភូមិស្ទឹងត្រង់",
+    "english": "Stueng Trang Village"
+
+  },
+  {
+    "id": "stueng_trang_002",
+    "commune_id": "stueng_trang",
+    "local": "ភូមិអំពិល",
+    "english": "Ampil Village"
+  },
+  {
+    "id": "angk_snuol_001",
+    "commune_id": "angk_snuol",
+    "local": "ភូមិអង្គស្នួល",
+    "english": "Angk Snuol Village"
+  },
+  {
+    "id": "angk_snuol_002",
+    "commune_id": "angk_snuol",
+    "local": "ភូមិក្រាំងម្កាក់",
+    "english": "Krang Mkak Village"
+  },
+  {
+    "id": "angk_snuol_003",
+    "commune_id": "angk_snuol",
+    "local": "ភូមិព្រៃល្វា",
+    "english": "Prey Lvea Village"
+  },
+
+  {
+    "id": "kandal_stueng_001",
+    "commune_id": "kandal_stueng",
+    "local": "ភូមិកណ្តាលស្ទឹង",
+    "english": "Kandal Stueng Village"
+  },
+  {
+    "id": "kandal_stueng_002",
+    "commune_id": "kandal_stueng",
+    "local": "ភូមិសំរោងលើ",
+    "english": "Samraong Leu Village"
+  },
+  {
+    "id": "kandal_stueng_003",
+    "commune_id": "kandal_stueng",
+    "local": "ភូមិព្រៃផ្ដៅ",
+    "english": "Prey Phdao Village"
+  },
+
+  {
+    "id": "kien_svay_001",
+    "commune_id": "kien_svay",
+    "local": "ភូមិកៀនស្វាយ",
+    "english": "Kien Svay Village"
+  },
+  {
+    "id": "kien_svay_002",
+    "commune_id": "kien_svay",
+    "local": "ភូមិស្វាយជ្រុំ",
+    "english": "Svay Chrum Village"
+  },
+  {
+    "id": "kien_svay_003",
+    "commune_id": "kien_svay",
+    "local": "ភូមិដាក់ពោធិ៍",
+    "english": "Dak Pov Village"
+  },
+
+  {
+    "id": "koh_thom_001",
+    "commune_id": "koh_thom",
+    "local": "ភូមិកោះធំ",
+    "english": "Koh Thom Village"
+  },
+  {
+    "id": "koh_thom_002",
+    "commune_id": "koh_thom",
+    "local": "ភូមិព្រែកស្តី",
+    "english": "Prek Sdei Village"
+  },
+
+  {
+    "id": "lvea_aem_001",
+    "commune_id": "lvea_aem",
+    "local": "ភូមិល្វាឯម",
+    "english": "Lvea Aem Village"
+  },
+  {
+    "id": "lvea_aem_002",
+    "commune_id": "lvea_aem",
+    "local": "ភូមិអរិយក្សត្រ",
+    "english": "Akreiy Ksatr Village"
+  },
+
+  {
+    "id": "mukh_kampul_001",
+    "commune_id": "mukh_kampul",
+    "local": "ភូមិមុខកំពូល",
+    "english": "Mukh Kampul Village"
+  },
+  {
+    "id": "mukh_kampul_002",
+    "commune_id": "mukh_kampul",
+    "local": "ភូមិសំបួរមាស",
+    "english": "Sambuor Meas Village"
+  },
+
+  {
+    "id": "saang_001",
+    "commune_id": "saang",
+    "local": "ភូមិស្អាង",
+    "english": "Saang Village"
+  },
+  {
+    "id": "saang_002",
+    "commune_id": "saang",
+    "local": "ភូមិស្វាយរលំ",
+    "english": "Svay Rolum Village"
+  },
+
+  {
+    "id": "ta_khmau_001",
+    "commune_id": "ta_khmau",
+    "local": "ភូមិតាខ្មៅ",
+    "english": "Ta Khmau Village"
+  },
+  {
+    "id": "ta_khmau_002",
+    "commune_id": "ta_khmau",
+    "local": "ភូមិរកាខ្ពស់",
+    "english": "Roka Khpos Village"
+  },
+
+  {
+    "id": "leuk_daek_001",
+    "commune_id": "leuk_dek",
+    "local": "ភូមិលើកដែក",
+    "english": "Leuk Daek Village"
+  },
+  {
+    "id": "leuk_daek_002",
+    "commune_id": "leuk_dek",
+    "local": "ភូមិព្រែកដាច់",
+    "english": "Prek Dach Village"
+  }
+
+]
