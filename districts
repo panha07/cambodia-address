@@ -1,0 +1,305 @@
+[
+  {
+    "id": "mongkol_borei",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកមង្គលបូរី",
+    "english": "Mongkol Borei District"
+  },
+  {
+    "id": "phnum_srok",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកភ្នំស្រុក",
+    "english": "Phnum Srok District"
+  },
+  {
+    "id": "preah_net_preah",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកព្រះនេត្រព្រះ",
+    "english": "Preah Netr Preah District"
+  },
+  {
+    "id": "serei_saophoan",
+    "province_id": "banteay_meanchey",
+    "local": "ក្រុងសិរីសោភ័ណ",
+    "english": "Serei Saophoan Municipality"
+  },
+  {
+    "id": "thma_puok",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកថ្មពួក",
+    "english": "Thma Puok District"
+  },
+  {
+    "id": "svay_chek",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកស្វាយចេក",
+    "english": "Svay Chek District"
+  },
+  {
+    "id": "ou_chrov",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកអូរជ្រៅ",
+    "english": "Ou Chrov District"
+  },
+  {
+    "id": "malai",
+    "province_id": "banteay_meanchey",
+    "local": "ស្រុកម៉ាឡៃ",
+    "english": "Malai District"
+  },
+  {
+    "id": "poipet",
+    "province_id": "banteay_meanchey",
+    "local": "ក្រុងប៉ោយប៉ែត",
+    "english": "Poipet Municipality"
+  },
+  {
+    "id": "chamkar_mon",
+    "province_id": "phnom_penh",
+    "code": "1201",
+    "local": "ខណ្ឌចំការមន",
+    "english": "Chamkar Mon"
+  },
+  {
+    "id": "doun_penh",
+    "province_id": "phnom_penh",
+    "code": "1202",
+    "local": "ខណ្ឌដូនពេញ",
+    "english": "Doun Penh"
+  },
+  {
+    "id": "prampir_meakkakra",
+    "province_id": "phnom_penh",
+    "code": "1203",
+    "local": "ខណ្ឌ៧មករា",
+    "english": "Prampir Makara"
+  },
+  {
+    "id": "tuol_kouk",
+    "province_id": "phnom_penh",
+    "code": "1204",
+    "local": "ខណ្ឌទួលគោក",
+    "english": "Tuol Kouk"
+  },
+  {
+    "id": "dangkao",
+    "province_id": "phnom_penh",
+    "code": "1205",
+    "local": "ខណ្ឌដង្កោ",
+    "english": "Dangkao"
+  },
+  {
+    "id": "mean_chey",
+    "province_id": "phnom_penh",
+    "code": "1206",
+    "local": "ខណ្ឌមានជ័យ",
+    "english": "Mean Chey"
+  },
+  {
+    "id": "russey_keo",
+    "province_id": "phnom_penh",
+    "code": "1207",
+    "local": "ខណ្ឌឫស្សីកែវ",
+    "english": "Russey Keo"
+  },
+  {
+    "id": "sen_sok",
+    "province_id": "phnom_penh",
+    "code": "1208",
+    "local": "ខណ្ឌសែនសុខ",
+    "english": "Sen Sok"
+  },
+  {
+    "id": "por_sen_chey",
+    "province_id": "phnom_penh",
+    "code": "1209",
+    "local": "ខណ្ឌពោធិ៍សែនជ័យ",
+    "english": "Por Sen Chey"
+  },
+  {
+    "id": "chrouy_changvar",
+    "province_id": "phnom_penh",
+    "code": "1210",
+    "local": "ខណ្ឌជ្រោយចង្វារ",
+    "english": "Chrouy Changvar"
+  },
+  {
+    "id": "prek_pnov",
+    "province_id": "phnom_penh",
+    "code": "1211",
+    "local": "ខណ្ឌព្រែកព្នៅ",
+    "english": "Prek Pnov"
+  },
+  {
+    "id": "chbar_ampov",
+    "province_id": "phnom_penh",
+    "code": "1212",
+    "local": "ខណ្ឌច្បារអំពៅ",
+    "english": "Chbar Ampov"
+  },
+  {
+    "id": "boeung_keng_kang",
+    "province_id": "phnom_penh",
+    "code": "1213",
+    "local": "ខណ្ឌបឹងកេងកង",
+    "english": "Boeung Keng Kang"
+  },
+  {
+    "id": "kamboul",
+    "province_id": "phnom_penh",
+    "code": "1214",
+    "local": "ខណ្ឌកំបូល",
+    "english": "Kamboul"
+  },
+  {
+    "id": "angk_snuol",
+    "province_id": "kandal",
+    "code": "0801",
+    "local": "ស្រុកអង្គស្នួល",
+    "english": "Angk Snuol District"
+  },
+  {
+    "id": "kandal_stueng",
+    "province_id": "kandal",
+    "code": "0802",
+    "local": "ស្រុកកណ្តាលស្ទឹង",
+    "english": "Kandal Stueng District"
+  },
+  {
+    "id": "kien_svay",
+    "province_id": "kandal",
+    "code": "0803",
+    "local": "ស្រុកកៀនស្វាយ",
+    "english": "Kien Svay District"
+  },
+  {
+    "id": "koh_thom",
+    "province_id": "kandal",
+    "code": "0804",
+    "local": "ស្រុកកោះធំ",
+    "english": "Koh Thom District"
+  },
+  {
+    "id": "leuk_dek",
+    "province_id": "kandal",
+    "code": "0805",
+    "local": "ស្រុកលើកដែក",
+    "english": "Leuk Daek District"
+  },
+  {
+    "id": "lvea_aem",
+    "province_id": "kandal",
+    "code": "0806",
+    "local": "ស្រុកល្វាឯម",
+    "english": "Lvea Aem District"
+  },
+  {
+    "id": "mukh_kampul",
+    "province_id": "kandal",
+    "code": "0807",
+    "local": "ស្រុកមុខកំពូល",
+    "english": "Mukh Kampul District"
+  },
+  {
+    "id": "saang",
+    "province_id": "kandal",
+    "code": "0808",
+    "local": "ស្រុកស្អាង",
+    "english": "Saang District"
+  },
+  {
+    "id": "sa_ang",
+    "province_id": "kandal",
+    "code": "0809",
+    "local": "ស្រុកស្អាង (variant mapping)",
+    "english": "Saang District"
+  },
+  {
+    "id": "ta_khmau",
+    "province_id": "kandal",
+    "code": "0810",
+    "local": "ក្រុងតាខ្មៅ",
+    "english": "Ta Khmau Municipality"
+  },
+  {
+    "id": "sa_ang_tong",
+    "province_id": "kandal",
+    "code": "0811",
+    "local": "ស្រុកស្អាងទន្លេ",
+    "english": "Sa Ang Tonge District"
+  },
+[
+  {
+    "id": "batheay",
+    "province_id": "kampong_cham",
+    "code": "0301",
+    "local": "ស្រុកបាធាយ",
+    "english": "Batheay District"
+  },
+  {
+    "id": "cheung_prey",
+    "province_id": "kampong_cham",
+    "code": "0302",
+    "local": "ស្រុកជើងព្រៃ",
+    "english": "Cheung Prey District"
+  },
+  {
+    "id": "kampong_cham",
+    "province_id": "kampong_cham",
+    "code": "0303",
+    "local": "ក្រុងកំពង់ចាម",
+    "english": "Kampong Cham Municipality"
+  },
+  {
+    "id": "kang_meas",
+    "province_id": "kampong_cham",
+    "code": "0304",
+    "local": "ស្រុកកងមាស",
+    "english": "Kang Meas District"
+  },
+  {
+    "id": "koh_sotin",
+    "province_id": "kampong_cham",
+    "code": "0305",
+    "local": "ស្រុកកោះសូទិន",
+    "english": "Koh Sotin District"
+  },
+  {
+    "id": "prey_chhor",
+    "province_id": "kampong_cham",
+    "code": "0306",
+    "local": "ស្រុកព្រៃឈរ",
+    "english": "Prey Chhor District"
+  },
+  {
+    "id": "srey_santhor",
+    "province_id": "kampong_cham",
+    "code": "0307",
+    "local": "ស្រុកស្រីសន្ធរ",
+    "english": "Srey Santhor District"
+  },
+  {
+    "id": "stueng_trang",
+    "province_id": "kampong_cham",
+    "code": "0308",
+    "local": "ស្រុកស្ទឹងត្រង់",
+    "english": "Stueng Trang District"
+  },
+  {
+    "id": "kampong_siema",
+    "province_id": "kampong_cham",
+    "code": "0309",
+    "local": "ស្រុកកំពង់សៀម",
+    "english": "Kampong Siem District"
+  },
+  {
+    "id": "tbong_khmum_split",
+    "province_id": "kampong_cham",
+    "code": "0310",
+    "local": "ស្រុកត្បូងឃ្មុំ (historical split)",
+    "english": "Tboung Khmum Area (historical reference)"
+  }
+]
+
+
+]
